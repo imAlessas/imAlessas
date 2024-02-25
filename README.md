@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imAlessas &show_icons=true&locale=en&layout=compact" alt="imAlessas " /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imAlessas &show_icons=true&locale=en" alt="imAlessas " /></p>
+
 <!--
 **imAlessas/imAlessas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
