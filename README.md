@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alessandro and I'm a Computer Engineer from Italy! [<a href=""https://alessandro-trigolo-cv.vercel.app/>CV</a>]</h2>
+<h2 align="left">Hi 👋! My name is Alessandro and I'm a Computer Engineer from Italy! [<a href="https://alessandro-trigolo-cv.vercel.app/">CV</a>]</h2>
 
 ###
 
