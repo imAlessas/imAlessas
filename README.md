@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imalessas&theme=github_dark" alt="GitHub Profile Summary Card">
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imAlessas&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ###
 
